@@ -1,0 +1,7 @@
+# створюються ноутбуком під час виконання
+*/assets/
+*/data/
+
+.ipynb_checkpoints/
+.venv/
+__pycache__/
