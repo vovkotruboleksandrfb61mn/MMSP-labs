@@ -1,6 +1,6 @@
 # Лабораторна робота № 3 — моделювання систем з використанням мереж Петрі
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alik-eth/MMSP-labs/blob/main/lab3/solution.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vovkotruboleksandrfb61mn/MMSP-labs/blob/main/lab3/solution.ipynb)
 
 - [solution.ipynb](solution.ipynb) — розв'язок із результатами виконання
 - [LR3_MerezhiPetri_Vovkotrub_FB-61mn.pdf](LR3_MerezhiPetri_Vovkotrub_FB-61mn.pdf) — звіт

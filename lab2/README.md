@@ -1,6 +1,6 @@
 # Лабораторна робота № 2 — моделювання лінійних систем
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alik-eth/MMSP-labs/blob/main/lab2/solution.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vovkotruboleksandrfb61mn/MMSP-labs/blob/main/lab2/solution.ipynb)
 
 - [solution.ipynb](solution.ipynb) — розв'язок із результатами виконання
 - [LR2_LiniyniSystemy_Vovkotrub_FB-61mn.pdf](LR2_LiniyniSystemy_Vovkotrub_FB-61mn.pdf) — звіт

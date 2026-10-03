@@ -8,9 +8,9 @@
 
 | № | Тема | Ноутбук | Звіт |
 |---|------|---------|------|
-| 1 | Засоби моделювання Python: фігури Лісажу, поліном Чебишева, годограф Михайлова, банкомат | [solution.ipynb](lab1/solution.ipynb) · [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alik-eth/MMSP-labs/blob/main/lab1/solution.ipynb) | [PDF](lab1/LR1_ZasobyPython_Vovkotrub_FB-61mn.pdf) |
-| 2 | Моделювання лінійних систем: стійкість, часові та частотні характеристики, канонічні форми | [solution.ipynb](lab2/solution.ipynb) · [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alik-eth/MMSP-labs/blob/main/lab2/solution.ipynb) | [PDF](lab2/LR2_LiniyniSystemy_Vovkotrub_FB-61mn.pdf) |
-| 3 | Мережі Петрі: граф досяжних розміток, P-інваріанти, обідаючі філософи | [solution.ipynb](lab3/solution.ipynb) · [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alik-eth/MMSP-labs/blob/main/lab3/solution.ipynb) | [PDF](lab3/LR3_MerezhiPetri_Vovkotrub_FB-61mn.pdf) |
+| 1 | Засоби моделювання Python: фігури Лісажу, поліном Чебишева, годограф Михайлова, банкомат | [solution.ipynb](lab1/solution.ipynb) · [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vovkotruboleksandrfb61mn/MMSP-labs/blob/main/lab1/solution.ipynb) | [PDF](lab1/LR1_ZasobyPython_Vovkotrub_FB-61mn.pdf) |
+| 2 | Моделювання лінійних систем: стійкість, часові та частотні характеристики, канонічні форми | [solution.ipynb](lab2/solution.ipynb) · [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vovkotruboleksandrfb61mn/MMSP-labs/blob/main/lab2/solution.ipynb) | [PDF](lab2/LR2_LiniyniSystemy_Vovkotrub_FB-61mn.pdf) |
+| 3 | Мережі Петрі: граф досяжних розміток, P-інваріанти, обідаючі філософи | [solution.ipynb](lab3/solution.ipynb) · [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vovkotruboleksandrfb61mn/MMSP-labs/blob/main/lab3/solution.ipynb) | [PDF](lab3/LR3_MerezhiPetri_Vovkotrub_FB-61mn.pdf) |
 
 ## Запуск
 

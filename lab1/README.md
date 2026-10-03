@@ -1,6 +1,6 @@
 # Лабораторна робота № 1 — ознайомлення з можливостями моделювання засобами Python
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alik-eth/MMSP-labs/blob/main/lab1/solution.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vovkotruboleksandrfb61mn/MMSP-labs/blob/main/lab1/solution.ipynb)
 
 - [solution.ipynb](solution.ipynb) — розв'язок із результатами виконання
 - [LR1_ZasobyPython_Vovkotrub_FB-61mn.pdf](LR1_ZasobyPython_Vovkotrub_FB-61mn.pdf) — звіт
